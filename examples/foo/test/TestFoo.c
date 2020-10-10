@@ -1,4 +1,3 @@
-
 #include "foo.h"
 #include "unity.h"
 
